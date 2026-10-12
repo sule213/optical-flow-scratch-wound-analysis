@@ -12,7 +12,7 @@ Together these give a quantitative picture of cell migration dynamics during wou
 
 ## Contents
 
-- `Optical Flow for Scratch Wound Analysis.ipynb` - the main notebook: the full pipeline from time series images to migration measurements
+- `optical_flow_scratch_wound_analysis.ipynb` - the main notebook: the full pipeline from time series images to migration measurements
 - `motion_analysis.py` - motion tracking over the image sequence
 - `magnitude_analysis.py` - magnitude of movement
 - `orientation_analysis.py` - orientation and directionality analysis
